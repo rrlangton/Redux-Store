@@ -12,6 +12,8 @@ SO THAT my website's state management is taken out of the React ecosystem
 
 ## Mock-Up
 
+This section reviews the web application's general appearance and functionality.
+
 ## Packages & Installation 
 
 ### Sources
